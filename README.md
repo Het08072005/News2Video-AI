@@ -1,6 +1,4 @@
-# News2Video-AI
-
-# Text-to-Video News Generator
+# News2Video-AI  - Text-to-Video News Generator
 
 This project converts written news text into a narrated video complete with AI-generated images, audio narration, and synchronized video output. The workflow is designed to run in Google Colab and uses state-of-the-art diffusion models along with text-to-speech and video processing libraries.
 
